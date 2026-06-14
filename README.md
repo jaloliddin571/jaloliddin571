@@ -34,9 +34,10 @@ class Developer {
 }
 ```
 
-- 🔭 Currently working on **BolaJon OS** — an AI-powered system helping parents track academic progress, build discipline, and teach financial responsibility through gamification.
+- 🔭 Currently working on **BolaJon OS** & **Child OS** — an AI-powered after-school growth system helping parents track academic progress, build discipline, and teach financial responsibility through gamification.
 - 🛠️ Built **Mario** — a Flutter & Firebase shift management app for factory workers (multi-language, real-time shift swaps).
 - 🔐 Developed **SecureCrypt Mobile** — a mobile encryption & security app for a freelance client.
+- 🚀 Building **DataPath AI** — my first startup, a cross-platform Flutter + AI project.
 - 📫 Reach me at **j.b.dev.uz@gmail.com**
 
 <br>
@@ -89,12 +90,26 @@ class Developer {
 ---
 
 ### 🎓 BolaJon OS — AI-Powered Growth System
-> An AI-powered after-school system that helps parents track academic progress, build discipline, improve focus, and teach financial literacy through gamification and real-time insights.
+> An AI-powered after-school system that transforms hours into structured growth — helping parents track academic progress, build discipline, improve focus, and teach financial literacy through gamification and real-time insights.
 
 - 🤖 AI-driven homework review and focus sprints
 - 🎮 Gamification for habit-building
 - 💰 Financial literacy modules for kids
 - 👨‍👩‍👧 Real-time parent insights dashboard
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+
+---
+
+### 👶 Child OS
+> Companion app to BolaJon OS — the AI-powered after-school growth system designed for kids, focused on academic progress, discipline, focus, and financial responsibility through gamified daily experiences.
+
+- 📚 Daily homework & study tracking
+- 🎯 Focus sprints and habit streaks
+- 🏆 Gamified rewards for discipline
+- 🔗 Synced with parent dashboard in BolaJon OS
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
@@ -114,29 +129,16 @@ class Developer {
 
 ---
 
-### 🗃️ ReferenceDB
-> An Android local database reference app.
+### 🚀 DataPath AI
+> My first startup — a Flutter app exploring AI-driven data tools, built cross-platform for Android, iOS, web, and desktop.
 
-- 🗄️ SQLite local storage
-- 📋 Clean data management UI
-- ⚡ Built natively with Kotlin
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 📊 Smart Expense Analyzer
-> A Flutter app for tracking and analyzing personal expenses.
-
-- 📈 Expense tracking and categorization
-- 📊 Visual spending analytics
-- 🔥 Firebase-backed data sync
+- 🌍 Cross-platform: Android, iOS, Web, Windows, macOS, Linux
+- 🔥 Firebase-integrated backend
+- 🤖 AI-focused product direction
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
 <br>
 
