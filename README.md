@@ -1,18 +1,21 @@
 <div align="center">
 
+<img src="profile-banner.png" alt="Flutter dev banner" width="100%">
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
 
 <br>
 
 # Hi, I'm Jaloliddin Bobomurodov 👋
 
-### Flutter Developer · Android · Cross-Platform Mobile Apps
+### Junior Flutter Developer
 
-*Building smooth, scalable mobile experiences with Dart & Firebase 🚀*
+📍 Riga, Latvia 🇱🇻
+
+*Building cross-platform mobile applications with Flutter, Dart and Firebase.*
 
 [![GitHub followers](https://img.shields.io/github/followers/jaloliddin571?label=Follow&style=social)](https://github.com/jaloliddin571)
 [![Profile views](https://komarev.com/ghpvc/?username=jaloliddin571&color=0468D7&style=flat-square&label=Profile+views)](https://github.com/jaloliddin571)
@@ -21,24 +24,36 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```dart
 class Developer {
   final String name = "Jaloliddin Bobomurodov";
-  final String location = "Tashkent, Uzbekistan 🇺🇿";
-  final List<String> stack = ["Flutter", "Dart", "Firebase", "Kotlin", "Android"];
-  final String currentlyBuilding = "BolaJon OS — AI-powered after-school growth system";
-  final List<String> languages = ["Uzbek", "Russian", "English"];
+  final String role = "Junior Flutter Developer";
+  final String location = "Riga, Latvia";
+
+  final List<String> skills = [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "REST API",
+    "Git",
+  ];
+
+  final String currentlyLearning =
+      "Clean Architecture, Riverpod, Testing";
+
   final bool openToWork = true;
 }
 ```
 
-- 🔭 Currently working on **BolaJon OS** & **Child OS** — an AI-powered after-school growth system helping parents track academic progress, build discipline, and teach financial responsibility through gamification.
-- 🛠️ Built **Mario** — a Flutter & Firebase shift management app for factory workers (multi-language, real-time shift swaps).
-- 🔐 Developed **SecureCrypt Mobile** — a mobile encryption & security app for a freelance client.
-- 🚀 Building **DataPath AI** — my first startup, a cross-platform Flutter + AI project.
-- 📫 Reach me at **j.b.dev.uz@gmail.com**
+- 📱 Junior Flutter Developer passionate about mobile development
+- 🔥 Experience building applications with Flutter, Firebase and REST APIs
+- 🏭 Developed **Mario**, a workforce and shift management application
+- 👶 Building **Child OS** and **BolaJon OS** personal projects
+- 🌱 Currently learning Clean Architecture, Riverpod and Flutter testing
+- 🚀 Open to Junior Flutter Developer opportunities
+- 📫 Contact: [j.b.dev.uz@gmail.com](mailto:j.b.dev.uz@gmail.com)
 
 <br>
 
@@ -50,7 +65,6 @@ class Developer {
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=black)
 
 **Backend & Database**
@@ -60,12 +74,12 @@ class Developer {
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%230468D7.svg?style=flat-square&logo=fastapi&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -74,28 +88,14 @@ class Developer {
 ## 🚀 Featured Projects
 
 ### 🏭 Mario — Factory Shift Management
-> A modern workforce and shift management mobile app built with Flutter and Firebase.
+> Flutter and Firebase based workforce management application.
 
-- 📱 Cross-platform app (Android + iOS)
-- 🔥 Real-time Firestore backend for shifts, schedules & attendance
-- 🌐 Multi-language support: Uzbek · Russian · Latvian · English
-- 🔄 Shift swap requests with approve/reject workflow
-- 🔔 Notifications and daily reports
-- 🎨 Custom red-branded Material Design UI
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-
----
-
-### 🎓 BolaJon OS — AI-Powered Growth System
-> An AI-powered after-school system that transforms hours into structured growth — helping parents track academic progress, build discipline, improve focus, and teach financial literacy through gamification and real-time insights.
-
-- 🤖 AI-driven homework review and focus sprints
-- 🎮 Gamification for habit-building
-- 💰 Financial literacy modules for kids
-- 👨‍👩‍👧 Real-time parent insights dashboard
+**Features**
+- Shift scheduling
+- Attendance tracking
+- Real-time updates
+- Multi-language support
+- Firebase backend
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
@@ -104,12 +104,28 @@ class Developer {
 ---
 
 ### 👶 Child OS
-> Companion app to BolaJon OS — the AI-powered after-school growth system designed for kids, focused on academic progress, discipline, focus, and financial responsibility through gamified daily experiences.
+> Educational mobile application designed for children.
 
-- 📚 Daily homework & study tracking
-- 🎯 Focus sprints and habit streaks
-- 🏆 Gamified rewards for discipline
-- 🔗 Synced with parent dashboard in BolaJon OS
+**Features**
+- Daily task management
+- Study tracking
+- Habit building
+- Gamification system
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+
+---
+
+### 🎓 BolaJon OS
+> Parent-focused educational management platform.
+
+**Features**
+- Parent dashboard
+- Progress monitoring
+- Homework tracking
+- Child development insights
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
@@ -118,26 +134,15 @@ class Developer {
 ---
 
 ### 🔐 SecureCrypt Mobile
-> A mobile encryption & security app, built as a freelance client project.
+> Mobile encryption and security application.
 
-- 🔒 On-device data encryption
-- 📦 Clean architecture pattern
-- 🤝 Delivered to a client's specifications
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-
----
-
-### 🚀 DataPath AI
-> My first startup — a Flutter app exploring AI-driven data tools, built cross-platform for Android, iOS, web, and desktop.
-
-- 🌍 Cross-platform: Android, iOS, Web, Windows, macOS, Linux
-- 🔥 Firebase-integrated backend
-- 🤖 AI-focused product direction
+**Features**
+- Data encryption
+- Secure storage
+- Flutter implementation
+- Mobile-first design
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 
 <br>
@@ -156,7 +161,17 @@ class Developer {
 
 <br>
 
-## 📬 Let's Connect
+## 🎯 Current Goals
+
+- Get my first Junior Flutter Developer position
+- Build production-ready mobile applications
+- Improve Flutter architecture skills
+- Learn advanced state management
+- Contribute to open-source projects
+
+<br>
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -169,8 +184,6 @@ class Developer {
 
 <div align="center">
 
-### ⭐ Thanks for visiting! If you like my work, consider giving a star to my repositories.
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+### ⭐ Thanks for visiting my profile! If you like my projects, feel free to give them a star.
 
 </div>
