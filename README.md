@@ -1,47 +1,51 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/flutter/website/main/src/assets/images/flutter-lockup-bg.jpg" width="0" height="0">
-
-<!-- Flutter logo SVG banner via shields -->
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
 
----
+<br>
 
-# 👋 Hi, I'm Jaloliddin Bobomurodov
+# Hi, I'm Jaloliddin Bobomurodov 👋
 
-### Flutter Developer · Android · Cross-platform Mobile Apps
+### Flutter Developer · Android · Cross-Platform Mobile Apps
 
-*Building smooth, scalable apps with Dart & Firebase 🚀*
+*Building smooth, scalable mobile experiences with Dart & Firebase 🚀*
 
 [![GitHub followers](https://img.shields.io/github/followers/jaloliddin571?label=Follow&style=social)](https://github.com/jaloliddin571)
 [![Profile views](https://komarev.com/ghpvc/?username=jaloliddin571&color=0468D7&style=flat-square&label=Profile+views)](https://github.com/jaloliddin571)
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About me
+## 🧑‍💻 About Me
 
 ```dart
-const dev = {
-  name:      "Jaloliddin Bobomurodov",
-  from:      "Tashkent, Uzbekistan 🇺🇿",
-  stack:     ["Flutter", "Dart", "Firebase", "Kotlin", "Android"],
-  building:  "Mario Factory Shift System",
-  speaks:    ["Uzbek", "Russian", "English"],
-  openToWork: true,
-};
+class Developer {
+  final String name = "Jaloliddin Bobomurodov";
+  final String location = "Tashkent, Uzbekistan 🇺🇿";
+  final List<String> stack = ["Flutter", "Dart", "Firebase", "Kotlin", "Android"];
+  final String currentlyBuilding = "BolaJon OS — AI-powered after-school growth system";
+  final List<String> languages = ["Uzbek", "Russian", "English"];
+  final bool openToWork = true;
+}
 ```
 
----
+- 🔭 Currently working on **BolaJon OS** — an AI-powered system helping parents track academic progress, build discipline, and teach financial responsibility through gamification.
+- 🛠️ Built **Mario** — a Flutter & Firebase shift management app for factory workers (multi-language, real-time shift swaps).
+- 🔐 Developed **SecureCrypt Mobile** — a mobile encryption & security app for a freelance client.
+- 📫 Reach me at **j.b.dev.uz@gmail.com**
 
-## 🛠️ Tech stack
+<br>
 
-**Mobile**
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
@@ -55,24 +59,27 @@ const dev = {
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%230468D7.svg?style=flat-square&logo=fastapi&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat-square&logo=android-studio&logoColor=black)
 
----
+</div>
 
-## 🚀 Featured projects
+<br>
 
-### 🏭 Mario Factory Shift System
-> Flutter shift management app for factory workers
+## 🚀 Featured Projects
 
-- 📱 Cross-platform Flutter app (Android + iOS)
-- 🔥 Firebase Firestore real-time backend
+### 🏭 Mario — Factory Shift Management
+> A modern workforce and shift management mobile app built with Flutter and Firebase.
+
+- 📱 Cross-platform app (Android + iOS)
+- 🔥 Real-time Firestore backend for shifts, schedules & attendance
 - 🌐 Multi-language support: Uzbek · Russian · Latvian · English
 - 🔄 Shift swap requests with approve/reject workflow
+- 🔔 Notifications and daily reports
 - 🎨 Custom red-branded Material Design UI
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
@@ -81,12 +88,26 @@ const dev = {
 
 ---
 
-### 🔐 SecureCrypt Mobile
-> Mobile encryption & security app · Freelance project
+### 🎓 BolaJon OS — AI-Powered Growth System
+> An AI-powered after-school system that helps parents track academic progress, build discipline, improve focus, and teach financial literacy through gamification and real-time insights.
 
-- 🔒 Data encryption on mobile
+- 🤖 AI-driven homework review and focus sprints
+- 🎮 Gamification for habit-building
+- 💰 Financial literacy modules for kids
+- 👨‍👩‍👧 Real-time parent insights dashboard
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+
+---
+
+### 🔐 SecureCrypt Mobile
+> A mobile encryption & security app, built as a freelance client project.
+
+- 🔒 On-device data encryption
 - 📦 Clean architecture pattern
-- 🤝 Built for a client
+- 🤝 Delivered to a client's specifications
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
@@ -94,11 +115,11 @@ const dev = {
 ---
 
 ### 🗃️ ReferenceDB
-> Android local database reference app
+> An Android local database reference app.
 
 - 🗄️ SQLite local storage
 - 📋 Clean data management UI
-- ⚡ Built with Kotlin
+- ⚡ Built natively with Kotlin
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=black)
@@ -106,31 +127,48 @@ const dev = {
 
 ---
 
-## 📊 GitHub stats
+### 📊 Smart Expense Analyzer
+> A Flutter app for tracking and analyzing personal expenses.
+
+- 📈 Expense tracking and categorization
+- 📊 Visual spending analytics
+- 🔥 Firebase-backed data sync
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Jaloliddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaloliddin571&show_icons=true&theme=default&hide_border=true&title_color=0468D7&icon_color=54C3E8&text_color=333333&bg_color=ffffff)
+![Jaloliddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaloliddin571&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaloliddin571&layout=compact&hide_border=true&title_color=0468D7&text_color=333333&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaloliddin571&layout=compact&hide_border=true&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaloliddin571&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
----
+<br>
 
-## 📬 Contact
+## 📬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-j.b.dev.uz%40gmail.com-%230468D7?style=flat-square&logo=gmail&logoColor=white)](mailto:j.b.dev.uz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jaloliddin571-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/jaloliddin571)
+[![Email](https://img.shields.io/badge/Email-j.b.dev.uz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.b.dev.uz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jaloliddin571-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaloliddin571)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-*Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories.*
+### ⭐ Thanks for visiting! If you like my work, consider giving a star to my repositories.
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
