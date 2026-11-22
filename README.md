@@ -9,7 +9,7 @@
 
 # Hi, I'm Jaloliddin Bobomurodov 👋
 
-### Junior Flutter Developer
+### Flutter Developer
 
 📍 Riga, Latvia 🇱🇻
 
